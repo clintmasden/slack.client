@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slack.Client", "Slack.Client\Slack.Client.csproj", "{4257DF47-D029-4DC5-B9B2-187C2EEA31AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slack.Client.Tests", "Slack.Client.Tests\Slack.Client.Tests.csproj", "{EB4D000B-255A-4EEB-B9D7-05C1F4824A94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EED3D9B-9B7A-49A4-AFBF-599153A47DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EED3D9B-9B7A-49A4-AFBF-599153A47DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EED3D9B-9B7A-49A4-AFBF-599153A47DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EED3D9B-9B7A-49A4-AFBF-599153A47DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFA9559-0F8F-4C38-9644-67A080EDC46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFA9559-0F8F-4C38-9644-67A080EDC46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFA9559-0F8F-4C38-9644-67A080EDC46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFA9559-0F8F-4C38-9644-67A080EDC46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19140E48-E1A9-421D-86DB-5AF18EECFEF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19140E48-E1A9-421D-86DB-5AF18EECFEF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19140E48-E1A9-421D-86DB-5AF18EECFEF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19140E48-E1A9-421D-86DB-5AF18EECFEF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4257DF47-D029-4DC5-B9B2-187C2EEA31AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4257DF47-D029-4DC5-B9B2-187C2EEA31AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4257DF47-D029-4DC5-B9B2-187C2EEA31AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4257DF47-D029-4DC5-B9B2-187C2EEA31AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4D000B-255A-4EEB-B9D7-05C1F4824A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4D000B-255A-4EEB-B9D7-05C1F4824A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4D000B-255A-4EEB-B9D7-05C1F4824A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4D000B-255A-4EEB-B9D7-05C1F4824A94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81CA9FB5-DA08-49E7-A26E-0A0B51011B91}
+	EndGlobalSection
+EndGlobal
